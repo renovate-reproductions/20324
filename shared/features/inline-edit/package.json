@@ -1,12 +1,11 @@
 {
-  "name": "@dealer-central/main-shell",
+  "name": "@dealer-central/inline-edit-feature",
   "version": "1.0.0",
   "main": "src/index.ts",
   "dependencies": {
     "@internal-ui/button": "1.2.3",
     "@internal-ui/text": "1.3.3",
     "@internal-ui/dropdown": "2.2.3",
-    "@dealer-central/inventory-app": "^1.0.0",
     "@dealer-central/dealership-contract": "^1.0.0"
   },
   "peerDependencies": {

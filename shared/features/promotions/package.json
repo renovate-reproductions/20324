@@ -1,0 +1,12 @@
+{
+  "name": "@dealer-central/promotion-feature",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@internal-ui/button": "1.2.3",
+    "@internal-ui/dropdown": "2.2.3"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1 || ^17.0.0"
+  }
+}
