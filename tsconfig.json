@@ -3,6 +3,9 @@
   "files": [],
   "references": [
     {
+      "path": "apps/inventory/features/inline-edit"
+    },
+    {
       "path": "apps/inventory/features/promotions"
     },
     {
@@ -16,4 +19,3 @@
     }
   ]
 }
-  

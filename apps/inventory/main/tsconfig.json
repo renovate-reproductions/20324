@@ -9,8 +9,10 @@
       "path": "../../../shared/contracts/dealerships"
     },
     {
+      "path": "../features/inline-edit"
+    },
+    {
       "path": "../features/promotions"
     }
   ]
 }
-  

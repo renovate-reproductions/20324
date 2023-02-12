@@ -2,7 +2,7 @@
   "name": "@dealer-central/promotion-feature",
   "version": "1.0.0",
   "main": "src/index.ts",
-  "dependendcies": {},
+  "dependencies": {},
   "peerDependencies": {
     "react": "^16.13.1 || ^17.0.0"
   }
